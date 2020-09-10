@@ -32,26 +32,33 @@ Electrode Cable
 Arduino
 Jumper Cables(male-male)
 
+![Alt text](FY9B3A5KEMTMFZT.png?raw=true "")
+
+![Alt text](FI326ZVKEMTMFTS.jpg?raw=true "")
+
+
 
 # Schematic:
-
+![Alt text](3957471599491497762.png?raw=true "")
 
 # PCB Layout:
+![Alt text](963171599491513183.png?raw=true "")
 
 
 # Ordering the PCBs from JLCPCB:
-
+![Alt text](5329001599491850092.png?raw=true "")
 
 Now we have got the PCB design and it’s time to order the PCB’s. For that, you just have to go to JLCPCB.com, and click on “QUOTE NOW” button.
 
 JLCPCB are also sponsor of this project. JLCPCB (ShenzhenJLC Electronics Co., Ltd.), is the largest PCB prototype enterprise in China and a high-tech manufacturer specializing in quick PCB prototype and small-batch PCB production. You can order a minimum of 5 PCBs for just $2.
 
 # Add your Gerber File:
-
+![Alt text](8817311599491890388.png?raw=true "")
 
 To get the PCB manufactured, upload the gerber file you downloaded in the last step. Upload the.zip file or you can also drag and drop the gerber files.
 
 # Finalizing your order:
+![Alt text](4234331599491933018.png?raw=true "")
 
 
 After uploading the zip file, you’ll see a preview of your pcb if the file is successfully uploaded.You can review the PCB in the Gerber viewer to make sure everything is good. You can view both top and bottom of the PCB.
