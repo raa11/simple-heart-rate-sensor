@@ -11,7 +11,7 @@ This article is in sponsored by JLCPCB, I'm very thankful for them helping me wi
 
 # Components Required
 
-    Resistors:
+  Resistors:
 
 1x 1M
 1x 1K
@@ -39,7 +39,7 @@ Jumper Cables(male-male)
 # PCB Layout:
 
 
-#Ordering the PCBs from JLCPCB:
+# Ordering the PCBs from JLCPCB:
 
 
 Now we have got the PCB design and it’s time to order the PCB’s. For that, you just have to go to JLCPCB.com, and click on “QUOTE NOW” button.
